@@ -1,4 +1,4 @@
-# EE203 Digital Design Study Notes
+# Digital And Number Systems
 
 ## 1. Digital Systems Overview
 
